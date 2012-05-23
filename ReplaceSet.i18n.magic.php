@@ -20,6 +20,11 @@ $magicWords['arz'] = array(
 	'replaceset' => array( 0, 'استبدال_المجموعة', 'replaceset' ),
 );
 
+/** German (Deutsch) */
+$magicWords['de'] = array(
+	'replaceset' => array( 0, 'ersetzeset', 'ersetze_set' ),
+);
+
 /** Macedonian (Македонски) */
 $magicWords['mk'] = array(
 	'replaceset' => array( 0, 'заменимножество' ),
