@@ -25,7 +25,12 @@ $magicWords['de'] = array(
 	'replaceset' => array( 0, 'ersetzeset', 'ersetze_set' ),
 );
 
-/** Macedonian (Македонски) */
+/** Korean (한국어) */
+$magicWords['ko'] = array(
+	'replaceset' => array( 0, '바꾸기집합' ),
+);
+
+/** Macedonian (македонски) */
 $magicWords['mk'] = array(
 	'replaceset' => array( 0, 'заменимножество' ),
 );
@@ -40,7 +45,7 @@ $magicWords['nl'] = array(
 	'replaceset' => array( 0, 'setvervangen' ),
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $magicWords['sr-el'] = array(
 	'replaceset' => array( 0, 'zameni_skup' ),
 );
