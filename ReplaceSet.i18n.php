@@ -59,7 +59,7 @@ $messages['be-tarask'] = array(
 	'replaceset-error-regexbadmodifier' => 'Няслушны мадыфікатар рэгулярнага выразу «$1».',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -69,7 +69,7 @@ $messages['br'] = array(
 	'replaceset-error-regexbadmodifier' => "Direizh eo ar c'hemmer regex '$1'.",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -107,7 +107,7 @@ $messages['el'] = array(
 	'replaceset-error-regexbadmodifier' => "Ο τροποποιητής τακτικής έκφρασης '$1' δεν είναι έγκυρος.",
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Translationista
  */
 $messages['es'] = array(
@@ -117,7 +117,7 @@ $messages['es'] = array(
 	'replaceset-error-regexbadmodifier' => "El modificador de expresión regular '$1' es inválido.",
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Centerlink
  * @author Crt
  * @author Str4nd
@@ -129,7 +129,7 @@ $messages['fi'] = array(
 	'replaceset-error-regexbadmodifier' => 'Säännöllisen lausekkeen määre ”$1” ei ole kelvollinen.',
 );
 
-/** French (Français)
+/** French (français)
  * @author PieRRoMaN
  * @author Urhixidur
  * @author Verdy p
@@ -182,7 +182,7 @@ $messages['hsb'] = array(
 	'replaceset-error-regexbadmodifier' => "Modifikator regularnych wurazow '$1' płaćiwy njeje.",
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
@@ -192,7 +192,7 @@ $messages['hu'] = array(
 	'replaceset-error-regexbadmodifier' => "A(z) '$1' reguláris kifejezés módosító nem érvényes.",
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -212,7 +212,7 @@ $messages['id'] = array(
 	'replaceset-error-regexbadmodifier' => "Pengubah regex '$1' tidak sah.",
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Civvì
  * @author Darth Kule
  */
@@ -252,7 +252,7 @@ $messages['lb'] = array(
 	'replaceset-error-calllimit' => "D'Limit fir d'Opruffe vu ''ReplaceSet'' gouf erreecht.",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -283,7 +283,7 @@ $messages['nl'] = array(
 	'replaceset-error-regexbadmodifier' => 'De modifier "$1" van de reguliere expressie is niet geldig.',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -293,7 +293,7 @@ $messages['oc'] = array(
 	'replaceset-error-regexbadmodifier' => 'Lo modificador d’expression regulara  « $1 » es invalid.',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -313,7 +313,7 @@ $messages['pms'] = array(
 	'replaceset-error-regexbadmodifier' => "Ël modificador ëd regex '$1' a l'é pa bon.",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -323,7 +323,7 @@ $messages['pt'] = array(
 	'replaceset-error-regexbadmodifier' => "O modificador de expressões regulares ''(regex)'' '$1' não é válido",
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -333,7 +333,7 @@ $messages['pt-br'] = array(
 	'replaceset-error-regexbadmodifier' => "O modificador de expressão regular '$1' não é válido",
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -343,7 +343,7 @@ $messages['roa-tara'] = array(
 	'replaceset-error-regexbadmodifier' => "'U modificatore de regex '$1' non g'è valide.",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -353,7 +353,7 @@ $messages['ru'] = array(
 	'replaceset-error-regexbadmodifier' => 'Модификатор регулярного выражения «$1» недействителен.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -363,7 +363,7 @@ $messages['sk'] = array(
 	'replaceset-error-regexbadmodifier' => 'Modifikátor regulárneho výrazu „$1“ nie je platný.',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  * @author Fluff
  */
@@ -394,7 +394,7 @@ $messages['tr'] = array(
 	'replaceset-error-regexbadmodifier' => "Regex değiştiricisi '$1' geçerli değil.",
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
