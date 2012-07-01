@@ -48,7 +48,7 @@ $messages['ar'] = array(
 	'replaceset-error-regexbadmodifier' => "معدل الريجيكس '$1' غير صحيح.",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -89,7 +89,7 @@ $messages['de'] = array(
 	'replaceset-error-regexbadmodifier' => 'Der Regex-Modifier „$1“ ist nicht gültig.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -141,7 +141,7 @@ $messages['fr'] = array(
 	'replaceset-error-regexbadmodifier' => 'Le modificateur d’expression rationnelle « $1 » est invalide.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -172,7 +172,7 @@ $messages['he'] = array(
 	'replaceset-error-regexbadmodifier' => "תו ההכללה לביטוי הרגולרי '$1' אינו תקין.",
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
