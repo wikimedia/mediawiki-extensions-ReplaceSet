@@ -226,12 +226,13 @@ $messages['it'] = array(
 /** Japanese (日本語)
  * @author Aotake
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['ja'] = array(
 	'replaceset-desc' => 'テキストの一部分を整形されたデータで置き換えるためのパーサー関数 <nowiki>{{#replaceset}}</nowiki> を追加する',
 	'replaceset-error-calllimit' => 'ReplaceSet の呼び出し回数が上限に達しました。',
-	'replaceset-error-regexnoend' => '指定した正規表現 "$1" には、終わりを区切る記号 \'$2\' が不足しています',
-	'replaceset-error-regexbadmodifier' => "'$1' は正規表現の修飾子として無効です。",
+	'replaceset-error-regexnoend' => '指定した正規表現「$1」には、終端を区切る記号「$2」が不足しています',
+	'replaceset-error-regexbadmodifier' => '「$1」は正規表現の修飾子として無効です。',
 );
 
 /** Colognian (Ripoarisch)
