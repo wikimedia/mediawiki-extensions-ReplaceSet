@@ -45,7 +45,7 @@ $magicWords['nl'] = array(
 	'replaceset' => array( 0, 'setvervangen' ),
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $magicWords['sr-el'] = array(
 	'replaceset' => array( 0, 'zameni_skup' ),
 );
