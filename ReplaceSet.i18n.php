@@ -404,4 +404,3 @@ $messages['uk'] = array(
 	'replaceset-error-regexnoend' => 'В шаблоні регулярного виразу "$1" відсутній кінцевий роздільник \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Модифікатор регулярного виразу '$1' недійсний.",
 );
-
