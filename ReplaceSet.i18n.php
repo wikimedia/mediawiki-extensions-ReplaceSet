@@ -235,6 +235,16 @@ $messages['ja'] = array(
 	'replaceset-error-regexbadmodifier' => '「$1」は正規表現の修飾子として無効です。',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'replaceset-desc' => '형식된 데이터로 텍스트의 부분을 바꾸는 데 사용하는 <nowiki>{{#replaceset}}</nowiki> 파서 함수 추가',
+	'replaceset-error-calllimit' => '집합바꾸기 호출 횟수 제한에 도달했습니다.',
+	'replaceset-error-regexnoend' => '"$1" 정규식 패턴에 \'$2\' 끝 구분 기호가 없습니다.',
+	'replaceset-error-regexbadmodifier' => "'$1' 정규식 한정자가 올바르지 않습니다.",
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
