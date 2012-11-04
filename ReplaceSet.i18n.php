@@ -71,10 +71,11 @@ $messages['bs'] = array(
 
 /** German (Deutsch)
  * @author Imre
+ * @author Metalhead64
  */
 $messages['de'] = array(
 	'replaceset-desc' => 'Fügt die Parserfunktion <nowiki>{{#replaceset}}</nowiki> hinzu, um Textabschnitte mit formatierten Daten zu ersetzen',
-	'replaceset-error-calllimit' => 'Das Abruflimit für ReplaceSet wurde erreicht.',
+	'replaceset-error-calllimit' => 'Das Abruflimit für ReplaceSet ($1) wurde erreicht.',
 	'replaceset-error-regexnoend' => 'Im Regex-Muster „$1“ fehlt der Endbegrenzer „$2“',
 	'replaceset-error-regexbadmodifier' => 'Der Regex-Modifier „$1“ ist nicht gültig.',
 );
@@ -98,11 +99,12 @@ $messages['el'] = array(
 );
 
 /** Spanish (español)
+ * @author Armando-Martin
  * @author Translationista
  */
 $messages['es'] = array(
 	'replaceset-desc' => 'Añade una función parser <nowiki>{{#replaceset}}</nowiki> utilizada para reemplazar secciones de texto con información formateada',
-	'replaceset-error-calllimit' => "Se ha alcanzado el límite de las llamadas a la función ''ReplaceSet''.",
+	'replaceset-error-calllimit' => 'Se ha alcanzado el límite ($1) de las llamadas a la función "ReplaceSet".',
 	'replaceset-error-regexnoend' => 'Al patrón de expresión regular "$1" le falta el delimitador final \'$2\'',
 	'replaceset-error-regexbadmodifier' => "El modificador de expresión regular '$1' es inválido.",
 );
@@ -220,7 +222,7 @@ $messages['it'] = array(
  */
 $messages['ja'] = array(
 	'replaceset-desc' => 'テキストの一部分を整形されたデータで置き換えるためのパーサー関数 <nowiki>{{#replaceset}}</nowiki> を追加する',
-	'replaceset-error-calllimit' => 'ReplaceSet の呼び出し回数が上限に達しました。',
+	'replaceset-error-calllimit' => 'ReplaceSet の呼び出し回数が上限 ($1) に達しました。',
 	'replaceset-error-regexnoend' => '指定した正規表現「$1」には、終端を区切る記号「$2」が不足しています',
 	'replaceset-error-regexbadmodifier' => '「$1」は正規表現の修飾子として無効です。',
 );
@@ -258,7 +260,7 @@ $messages['lb'] = array(
  */
 $messages['mk'] = array(
 	'replaceset-desc' => 'Додава <nowiki>{{#replaceset}}</nowiki> парсерска функција која се користи за заменување на делови од текстот со форматирани податоци',
-	'replaceset-error-calllimit' => 'Достигната е границата на повикувања ReplaceSet.',
+	'replaceset-error-calllimit' => 'Достигната е границата ($1) на повикувања на ReplaceSet.',
 	'replaceset-error-regexnoend' => 'Во шемата „$1“ на регуларниот израз недостасува крајниот граничник „$2“',
 	'replaceset-error-regexbadmodifier' => 'Модификаторот „$1“ на регуларниот израз е неважечки.',
 );
