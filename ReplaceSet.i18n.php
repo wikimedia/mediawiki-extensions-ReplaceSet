@@ -1,32 +1,22 @@
 <?php
 /**
- * ReplaceSet
+ * Internationalization for the ReplaceSet extension
  *
  * @file
- * @ingroup Extensions
- * @author Daniel Friesen (http://mediawiki.org/wiki/User:Dantman) <mediawiki@danielfriesen.name>
+ * @ingroup ReplaceSet
+ * @author Daniel Friesen (https://www.mediawiki.org/wiki/User:Dantman) <mediawiki@danielfriesen.name>
+ * @copyright Copyright © 2009-2012 – Daniel Friesen
  * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License
- * as published by the Free Software Foundation; either version 2
- * of the License, or (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 
 $messages = array();
 
+/** English (English)
+ * @author Daniel Friesen
+ */
 $messages['en'] = array(
 	'replaceset-desc' => 'Adds a <nowiki>{{#replaceset}}</nowiki> parser function used for replacing sections of text with formatted data',
-	'replaceset-error-calllimit' => 'The ReplaceSet call limit has been reached.',
+	'replaceset-error-calllimit' => 'The ReplaceSet call limit ($1) has been reached.',
 	'replaceset-error-regexnoend' => 'The regex pattern "$1" is missing the ending delimiter \'$2\'',
 	'replaceset-error-regexbadmodifier' => 'The regex modifier \'$1\' is not valid.'
 );

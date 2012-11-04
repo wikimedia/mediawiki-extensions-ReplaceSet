@@ -1,6 +1,12 @@
 <?php
 /**
+ * Magic word internationalization for the ReplaceSet extension
  *
+ * @file
+ * @ingroup ReplaceSet
+ * @author Daniel Friesen (https://www.mediawiki.org/wiki/User:Dantman) <mediawiki@danielfriesen.name>
+ * @copyright Copyright © 2009-2012 – Daniel Friesen
+ * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
 $magicWords = array();
