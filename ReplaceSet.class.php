@@ -22,8 +22,8 @@ class ReplaceSet {
 			return self::error( 'replaceset-error-calllimit', $egReplaceSetCallLimit );
 		}
 		// Set basic statics
-		static $regexStarts = '/!#=([{';
-		static $regexEnds   = '/!#=)]}';
+		static $regexStarts = '/!#([{';
+		static $regexEnds   = '/!#)]}';
 		static $regexModifiers = 'imsxADU';
 		// Grab our args
 		$args = func_get_args();
