@@ -14,7 +14,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 }
 
 class ReplaceSet {
-	public static function parserFunction( $parser, $string ) {
+	public static function parserFunctionObj(  $parser, $frame, $args ) {
 		global $egReplaceSetCallLimit, $egReplaceSetPregLimit;
 		static $called = 0;
 		$called++;
@@ -26,19 +26,19 @@ class ReplaceSet {
 		static $regexEnds   = '/!#)]}';
 		static $regexModifiers = 'imsxADU';
 		// Grab our args
-		$args = func_get_args();
-		array_shift( $args ); // Shift off the Parser
+		$string = isset( $args[0] ) ? trim( $frame->expand( $args[0] ) ) : '';
 		array_shift( $args ); // Shift off the String
 
 		// Create our list of replacements
 		$replacements = array();
 		$withs = array();
 		foreach ( $args as $arg ) {
-			// Replacements without a = are invalid.
-			if ( strpos( $arg, '=' ) === false ) continue;
-			list( $replace, $with ) = explode( '=', $arg, 2 );
-			$replace = trim( $replace );
-			$with = trim( $with );
+			$argArr = $arg->splitArg();
+			if ( $argArr['index'] ) {
+				continue;
+			}
+			$replace = $parser->mStripState->unstripNoWiki( trim( $frame->expand( $argArr['name'] ) ) );
+			$with = trim( $frame->expand( $argArr['value'] ) );
 			if ( false !== $delimPos = strpos( $regexStarts, $replace[0] ) ) {
 				// Is Regex Replace
 				$start = $replace[0];
