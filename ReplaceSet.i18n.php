@@ -253,7 +253,7 @@ $messages['ksh'] = array(
  */
 $messages['lb'] = array(
 	'replaceset-desc' => "Setzt eng <nowiki>{{#replaceset}}</nowiki> Parser-Fonctioun derbäi déi benotzt gëtt fir Text-Abschnitter duerch formatéiert Daten z'ersetzen",
-	'replaceset-error-calllimit' => "D'Limit fir d'Opruffe vu ''ReplaceSet'' gouf erreecht.",
+	'replaceset-error-calllimit' => "D'Limit ($1) fir d'Opruffe vu ''ReplaceSet'' gouf erreecht.",
 );
 
 /** Macedonian (македонски)
