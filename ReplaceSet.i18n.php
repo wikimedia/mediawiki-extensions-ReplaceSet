@@ -116,7 +116,7 @@ $messages['es'] = array(
  */
 $messages['fi'] = array(
 	'replaceset-desc' => 'Lisää <nowiki>{{#replaceset}}</nowiki>-jäsenninfunktion, jota käytetään tekstiosioiden korvaamiseen muotoillulla datalla.',
-	'replaceset-error-calllimit' => 'ReplaceSet-funktion kutsuraja on saavutettu.',
+	'replaceset-error-calllimit' => 'ReplaceSet-funktion kutsuraja ($1) on saavutettu.',
 	'replaceset-error-regexnoend' => 'Säännöllisestä lausekkeesta ”$1” puuttuu loppurajoitin ”$2”',
 	'replaceset-error-regexbadmodifier' => 'Säännöllisen lausekkeen määre ”$1” ei ole kelvollinen.',
 );
