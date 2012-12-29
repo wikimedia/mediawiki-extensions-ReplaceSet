@@ -209,10 +209,11 @@ $messages['id'] = array(
 /** Italian (italiano)
  * @author Civvì
  * @author Darth Kule
+ * @author Nemo bis
  */
 $messages['it'] = array(
 	'replaceset-desc' => 'Aggiunge una funzione parser <nowiki>{{#replaceset}}</nowiki> utilizzata per la sostituzione di parti di testo con dati formattati',
-	'replaceset-error-calllimit' => 'Il limite di chiamate ReplaceSet è stato raggiunto.',
+	'replaceset-error-calllimit' => 'Il limite di chiamate ReplaceSet è stato raggiunto.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Il delimitatore finale \'$2\' manca al pattern della regex "$1"',
 	'replaceset-error-regexbadmodifier' => "Il modificatore della regex '$1' non è valido.",
 );
