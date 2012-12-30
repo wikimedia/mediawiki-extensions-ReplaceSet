@@ -344,7 +344,7 @@ $messages['pt-br'] = array(
  */
 $messages['roa-tara'] = array(
 	'replaceset-desc' => "Aggiunge 'na funzione de l' analizzatore <nowiki>{{#replaceset}}</nowiki> ausate pe sostituì le seziune de teste cu le date formattate",
-	'replaceset-error-calllimit' => "'U limite de chiamate a ReplaceSet ha state raggiunde.",
+	'replaceset-error-calllimit' => "'U limite de chiamate a ReplaceSet ($1) ha state raggiunde.",
 	'replaceset-error-regexnoend' => "Jndr'à 'u pattern de regex \"\$1\" non ge stè ste 'u delimitatore finale '\$2'",
 	'replaceset-error-regexbadmodifier' => "'U modificatore de regex '$1' non g'è valide.",
 );
