@@ -314,7 +314,7 @@ $messages['pl'] = array(
  */
 $messages['pms'] = array(
 	'replaceset-desc' => 'A gionta na funsion dël parser <nowiki>{{#replaceset}}</nowiki> dovrà për rimpiassé session ëd test con dat formatà',
-	'replaceset-error-calllimit' => "Ël lìmit ëd ciamà a ReplaceSet a l'é rivà.",
+	'replaceset-error-calllimit' => "Ël lìmit ëd ciamà a ReplaceSet ($1) a l'é rivà.",
 	'replaceset-error-regexnoend' => 'Ël regex pattern "$1" a l\'ha pa ëd delimitador final \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Ël modificador ëd regex '$1' a l'é pa bon.",
 );
