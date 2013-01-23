@@ -410,3 +410,13 @@ $messages['uk'] = array(
 	'replaceset-error-regexnoend' => 'В шаблоні регулярного виразу "$1" відсутній кінцевий роздільник \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Модифікатор регулярного виразу '$1' недійсний.",
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'replaceset-desc' => '添加<nowiki>{{#replaceset}}</nowiki>解析器函数，用格式化的数据替代部分文本',
+	'replaceset-error-calllimit' => '该ReplaceSet已达到调用限制 ($1)。',
+	'replaceset-error-regexnoend' => '正则表达式“$1”缺少结束定界符“$2”',
+	'replaceset-error-regexbadmodifier' => '正则表达式修饰符“$1”无效。',
+);
