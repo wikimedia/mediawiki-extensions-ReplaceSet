@@ -33,7 +33,7 @@ $messages['qqq'] = array(
  */
 $messages['ar'] = array(
 	'replaceset-desc' => 'يضيف وظيفة محلل <nowiki>{{#replaceset}}</nowiki> تستخدم لاستبدال أقسام من النصوص ببيانات مهيئة',
-	'replaceset-error-calllimit' => 'حد استدعاء ReplaceSet تم الوصول إليه.',
+	'replaceset-error-calllimit' => 'حد استدعاء ReplaceSet تم الوصول إليه.', # Fuzzy
 	'replaceset-error-regexnoend' => 'نمط الريجيكس "$1" يفقد فاصل النهاية \'$2\'',
 	'replaceset-error-regexbadmodifier' => "معدل الريجيكس '$1' غير صحيح.",
 );
@@ -44,7 +44,7 @@ $messages['ar'] = array(
  */
 $messages['be-tarask'] = array(
 	'replaceset-desc' => 'Дадае функцыю парсэра <nowiki>{{#replaceset}}</nowiki> для замены частак тэксту з фарматаванымі зьвесткамі',
-	'replaceset-error-calllimit' => 'Была дасягнутая мяжа выклікаў ReplaceSet.',
+	'replaceset-error-calllimit' => 'Была дасягнутая мяжа выклікаў ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Ва ўзоры рэгулярнага выразу «$1» адсутнічае канчатковы падзяляльнік «$2»',
 	'replaceset-error-regexbadmodifier' => 'Няслушны мадыфікатар рэгулярнага выразу «$1».',
 );
@@ -54,7 +54,7 @@ $messages['be-tarask'] = array(
  */
 $messages['br'] = array(
 	'replaceset-desc' => "Ouzhpennañ a ra un arc'hwel parser <nowiki>{{#replaceset}}</nowiki> a dalvez da erlec'hiañ lodennoù skrid gant roadennoù furmadet",
-	'replaceset-error-calllimit' => "Tizhet eo bet bevenn gervel an arc'hwel ReplaceSet.",
+	'replaceset-error-calllimit' => "Tizhet eo bet bevenn gervel an arc'hwel ReplaceSet.", # Fuzzy
 	'replaceset-error-regexnoend' => 'Ezvezant eo ar bevenner dibenn \'$2\' er patrom regex "$1"',
 	'replaceset-error-regexbadmodifier' => "Direizh eo ar c'hemmer regex '$1'.",
 );
@@ -64,7 +64,7 @@ $messages['br'] = array(
  */
 $messages['bs'] = array(
 	'replaceset-desc' => 'Dodaje parsersku funkciju nowiki>{{#replaceset}}</nowiki> korištenu za zamjenu sekcija teksta sa formatiranim podacima',
-	'replaceset-error-calllimit' => 'Ograničenje poziva ReplaceSet je dostignuto.',
+	'replaceset-error-calllimit' => 'Ograničenje poziva ReplaceSet je dostignuto.', # Fuzzy
 	'replaceset-error-regexnoend' => "Šemi regularnih izraza ''$1'' nedostaje završni razdjelnik '$2'",
 	'replaceset-error-regexbadmodifier' => "Modifikator regularnih izraza '$1' nije valjan.",
 );
@@ -85,7 +85,7 @@ $messages['de'] = array(
  */
 $messages['dsb'] = array(
 	'replaceset-desc' => 'Pśidawa parserowu funkciju <nowiki>{{#replaceset}}</nowiki>, wužywanu za wuměnjenje tekstowych wótrězkow z formatěrowanymi datami',
-	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet jo dojśpjony.',
+	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet jo dojśpjony.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Mustroju regularnych wurazow "$1" falujo kóńcne źělatko \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Modifikator regularnych wurazow '$1' njejo płaśiwy.",
 );
@@ -150,7 +150,7 @@ $messages['gl'] = array(
  */
 $messages['gsw'] = array(
 	'replaceset-desc' => 'Fiegt e <nowiki>{{#replaceset}}</nowiki> Parserfunktion yy, wu mer Abschnitt vu Text cha ersetze dur formatierti Date',
-	'replaceset-error-calllimit' => 'D Gränz vu dr Aaruef vu ReplaceSet isch erreicht wore.',
+	'replaceset-error-calllimit' => 'D Gränz vu dr Aaruef vu ReplaceSet isch erreicht wore.', # Fuzzy
 	'replaceset-error-regexnoend' => "Bim Regexbitmuschter „$1“ fählt s Änd-Begränzigszeiche '$2'",
 	'replaceset-error-regexbadmodifier' => "Dr Regex-Modifier '$1' isch nit giltig.",
 );
@@ -161,7 +161,7 @@ $messages['gsw'] = array(
  */
 $messages['he'] = array(
 	'replaceset-desc' => 'הוספת התגית <nowiki>{{#replaceset}}</nowiki> המשמשת להחלפת מקטעים של טקסט בנתונים מעוצבים',
-	'replaceset-error-calllimit' => 'מגבלת הקריאה לתגית ReplaceSet הושגה.',
+	'replaceset-error-calllimit' => 'מגבלת הקריאה לתגית ReplaceSet הושגה.', # Fuzzy
 	'replaceset-error-regexnoend' => 'לתבנית הביטוי הרגולרי "$1" חסר מפריד הסיום \'$2\'',
 	'replaceset-error-regexbadmodifier' => "תו ההכללה לביטוי הרגולרי '$1' אינו תקין.",
 );
@@ -171,7 +171,7 @@ $messages['he'] = array(
  */
 $messages['hsb'] = array(
 	'replaceset-desc' => 'Přidawa parserowu funkciju <nowiki>{{#replaceset}}</nowiki>, wužiwanu za narunanje tekstowych wotrězkow z formatowanymi datami',
-	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet je docpěty.',
+	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet je docpěty.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Mustrej regularnych wurazow "$1" kónčne dźělatko \'$2\' pobrachuje',
 	'replaceset-error-regexbadmodifier' => "Modifikator regularnych wurazow '$1' płaćiwy njeje.",
 );
@@ -181,7 +181,7 @@ $messages['hsb'] = array(
  */
 $messages['hu'] = array(
 	'replaceset-desc' => '<nowiki>{{#replaceset}}</nowiki> elemzőfüggvény szöveg szakaszainak formázott adatokra történő cseréjére',
-	'replaceset-error-calllimit' => 'A ReplaceSet meghívási maximuma elérve.',
+	'replaceset-error-calllimit' => 'A ReplaceSet meghívási maximuma elérve.', # Fuzzy
 	'replaceset-error-regexnoend' => "A „$1” regex mintának hiányzik a záró határolójele ('$2')",
 	'replaceset-error-regexbadmodifier' => "A(z) '$1' reguláris kifejezés módosító nem érvényes.",
 );
@@ -191,7 +191,7 @@ $messages['hu'] = array(
  */
 $messages['ia'] = array(
 	'replaceset-desc' => 'Adde un function del analysator syntactic <nowiki>{{#replaceset}}</nowiki> pro reimplaciar sectiones de texto per datos formatate',
-	'replaceset-error-calllimit' => 'Le limite de appellos al function ReplaceSet ha essite attingite.',
+	'replaceset-error-calllimit' => 'Le limite de appellos al function ReplaceSet ha essite attingite.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Al patrono del expression regular "$1" manca le delimitator final \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Le modificator de expression regular '$1' non es valide.",
 );
@@ -201,7 +201,7 @@ $messages['ia'] = array(
  */
 $messages['id'] = array(
 	'replaceset-desc' => 'Masukan  <nowiki>{{#replaceset}}</nowiki> fungsi parser untuk menggantikan teks yang dipilih dengan data berformat.',
-	'replaceset-error-calllimit' => 'Pemanggilan ReplaceSet sudah mencapai limit.',
+	'replaceset-error-calllimit' => 'Pemanggilan ReplaceSet sudah mencapai limit.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Pola regex "$1" hilang pada akhir pemisah \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Pengubah regex '$1' tidak sah.",
 );
@@ -236,7 +236,7 @@ $messages['ja'] = array(
  */
 $messages['ko'] = array(
 	'replaceset-desc' => '형식된 데이터로 텍스트의 부분을 바꾸는 데 사용하는 <nowiki>{{#replaceset}}</nowiki> 파서 함수 추가',
-	'replaceset-error-calllimit' => '집합바꾸기 호출 횟수 제한에 도달했습니다.',
+	'replaceset-error-calllimit' => '집합바꾸기 호출 횟수 제한에 도달했습니다.', # Fuzzy
 	'replaceset-error-regexnoend' => '"$1" 정규식 패턴에 \'$2\' 끝 구분 기호가 없습니다.',
 	'replaceset-error-regexbadmodifier' => "'$1' 정규식 한정자가 올바르지 않습니다.",
 );
@@ -246,7 +246,7 @@ $messages['ko'] = array(
  */
 $messages['ksh'] = array(
 	'replaceset-desc' => 'Deiht de <code><nowiki>{{#replaceset}}</nowiki></code> Paaserfungkßuhn em Wiki dobei, öm Afschnedde fun Täx jääje fommatteete Daate enzetuusche.',
-	'replaceset-error-calllimit' => 'De Oproofjrenz för <i lang="en">ReplaceSet</i> es erreisch.',
+	'replaceset-error-calllimit' => 'De Oproofjrenz för <i lang="en">ReplaceSet</i> es erreisch.', # Fuzzy
 	'replaceset-error-regexnoend' => 'En dä <i lang="en">regular expression</i> „$1“ fählt et Zeische för et Engk, wat eijentlesch e „$2“ sin mööt.',
 	'replaceset-error-regexbadmodifier' => 'En dä <i lang="en">regular expression</i> es dat „$1“ e onjöltisch Zeijsche för en Veränderung udder en jenouere Beschtemmung.',
 );
@@ -274,7 +274,7 @@ $messages['mk'] = array(
  */
 $messages['nb'] = array(
 	'replaceset-desc' => 'Legger til parserfunksjonen <nowiki>{{#replaceset}}</nowiki> som brukes for å erstatte seksjoner av tekst med formattert data',
-	'replaceset-error-calllimit' => 'Begrensningen i antall kall til funksjonen ReplaceSet har blitt nådd.',
+	'replaceset-error-calllimit' => 'Begrensningen i antall kall til funksjonen ReplaceSet har blitt nådd.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Det regulære uttrykket "$1" mangler en avsluttende avgrenser \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Den regulære uttrykksendreren '$1' er ugyldig.",
 );
@@ -295,7 +295,7 @@ $messages['nl'] = array(
  */
 $messages['oc'] = array(
 	'replaceset-desc' => 'Apond una foncion parser <nowiki>{{#replaceset}}</nowiki> utilizada per remplaçar de seccions de tèxte amb de donadas formatadas',
-	'replaceset-error-calllimit' => "Lo limit dels apèls a la foncion ''ReplaceSet'' es estat atench.",
+	'replaceset-error-calllimit' => "Lo limit dels apèls a la foncion ''ReplaceSet'' es estat atench.", # Fuzzy
 	'replaceset-error-regexnoend' => 'Lo delimitador de fin « $2 » es mancant dins lo motiu de l’expression regulara « $1 »',
 	'replaceset-error-regexbadmodifier' => 'Lo modificador d’expression regulara  « $1 » es invalid.',
 );
@@ -305,7 +305,7 @@ $messages['oc'] = array(
  */
 $messages['pl'] = array(
 	'replaceset-desc' => 'Dodaje funkcję parsera <nowiki>{{#replaceset}}</nowiki> wykorzystywaną do zastępowania części tekstu sformatowanymi danymi',
-	'replaceset-error-calllimit' => 'Został osiągnięty limit liczby wywołań ReplaceSet.',
+	'replaceset-error-calllimit' => 'Został osiągnięty limit liczby wywołań ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => "Brak końcowego separatora '$2' w wyrażeniu regularnym wzorca „$1”",
 	'replaceset-error-regexbadmodifier' => "Nieprawidłowy modyfikator '$1' wyrażenia regularnego.",
 );
@@ -325,7 +325,7 @@ $messages['pms'] = array(
  */
 $messages['pt'] = array(
 	'replaceset-desc' => "Adiciona ao analisador sintáctico ''(parser)'' a função <nowiki>{{#replaceset}}</nowiki> usada para substituir secções de texto por dados formatados",
-	'replaceset-error-calllimit' => 'Foi atingido o limite de chamadas ao ReplaceSet.',
+	'replaceset-error-calllimit' => 'Foi atingido o limite de chamadas ao ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => "Falta o delimitador final '\$2' à expressão regular ''(regex)'' \"\$1\"",
 	'replaceset-error-regexbadmodifier' => "O modificador de expressões regulares ''(regex)'' '$1' não é válido",
 );
@@ -335,7 +335,7 @@ $messages['pt'] = array(
  */
 $messages['pt-br'] = array(
 	'replaceset-desc' => 'Adiciona a função de análise <nowiki>{{#replaceset}}</nowiki> utilizada para substituir seções de texto com dados formatados',
-	'replaceset-error-calllimit' => 'O limite de chamadas de ReplaceSet foi alcançado.',
+	'replaceset-error-calllimit' => 'O limite de chamadas de ReplaceSet foi alcançado.', # Fuzzy
 	'replaceset-error-regexnoend' => 'A expressão regular "$1" está sem um delimitador final \'$2\'',
 	'replaceset-error-regexbadmodifier' => "O modificador de expressão regular '$1' não é válido",
 );
@@ -355,7 +355,7 @@ $messages['roa-tara'] = array(
  */
 $messages['ru'] = array(
 	'replaceset-desc' => 'Добавляет функцию парсера <nowiki>{{#replaceset}}</nowiki>, для замены участков текста с форматированными данными',
-	'replaceset-error-calllimit' => 'Достигнут предел вызовов ReplaceSet.',
+	'replaceset-error-calllimit' => 'Достигнут предел вызовов ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => 'В шаблоне регулярного выражения «$1» отсутствует завершающий разделитель «$2»',
 	'replaceset-error-regexbadmodifier' => 'Модификатор регулярного выражения «$1» недействителен.',
 );
@@ -365,7 +365,7 @@ $messages['ru'] = array(
  */
 $messages['sk'] = array(
 	'replaceset-desc' => 'Pridáva funkciu syntaktického analyzátora <nowiki>{{#replaceset}}</nowiki> na náhradu sekcií textu formátovanými údajmi',
-	'replaceset-error-calllimit' => 'Bol dosiahnutý limit volaní ReplaceSet.',
+	'replaceset-error-calllimit' => 'Bol dosiahnutý limit volaní ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Regulárnemu výrazu „$1“ chýba ukončovací oddeľovač „$2“',
 	'replaceset-error-regexbadmodifier' => 'Modifikátor regulárneho výrazu „$1“ nie je platný.',
 );
@@ -376,7 +376,7 @@ $messages['sk'] = array(
  */
 $messages['sv'] = array(
 	'replaceset-desc' => 'Lägger till parsefunktionen <nowiki>{{#replaceset}}</nowiki> som används för att ersätta sektioner av text med formaterad data',
-	'replaceset-error-calllimit' => 'Begränsningen i antal anrop till funktionen ReplaceSet har uppnåtts.',
+	'replaceset-error-calllimit' => 'Begränsningen i antal anrop till funktionen ReplaceSet har uppnåtts.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Det reguljära uttrycket "$1" saknar en avslutande avgränsare \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Regex-modifiern '$1' är inte giltig.",
 );
@@ -386,7 +386,7 @@ $messages['sv'] = array(
  */
 $messages['tl'] = array(
 	'replaceset-desc' => 'Nagdaragdag ng isang tungkuling pangparser na <nowiki>{{#replaceset}}</nowiki> na ginagamit sa pagpapalit ng mga seksyon ng teksto ng dato na binigyan ng anyo',
-	'replaceset-error-calllimit' => 'Naabot na ang pangtawag ng hangganan ng ReplaceSet.',
+	'replaceset-error-calllimit' => 'Naabot na ang pangtawag ng hangganan ng ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Kulang ng pangtanggal ng hangganang $2\' ang padrong "$1" ng regex',
 	'replaceset-error-regexbadmodifier' => "Hindi tanggap ang panturing na '$1' ng regex.",
 );
@@ -396,7 +396,7 @@ $messages['tl'] = array(
  */
 $messages['tr'] = array(
 	'replaceset-desc' => 'Biçimlendirilmiş veri içeren metin bölümlerinin değiştirilmesi için <nowiki>{{#replaceset}}</nowiki> ayrıştırıcı fonksiyonu ekler',
-	'replaceset-error-calllimit' => 'ReplaceSet çağrı sınırına ulaşıldı.',
+	'replaceset-error-calllimit' => 'ReplaceSet çağrı sınırına ulaşıldı.', # Fuzzy
 	'replaceset-error-regexnoend' => 'Regex örüntüsü "$1", \'$2\' sınırlayıcısına sahip değil',
 	'replaceset-error-regexbadmodifier' => "Regex değiştiricisi '$1' geçerli değil.",
 );
@@ -406,7 +406,7 @@ $messages['tr'] = array(
  */
 $messages['uk'] = array(
 	'replaceset-desc' => 'Додає функцію парсеру <nowiki>{{#replaceset}}</nowiki>, яка використовується для заміни ділянок тексту з відформатованими даними',
-	'replaceset-error-calllimit' => 'Досягнуто межі викликів ReplaceSet.',
+	'replaceset-error-calllimit' => 'Досягнуто межі викликів ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => 'В шаблоні регулярного виразу "$1" відсутній кінцевий роздільник \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Модифікатор регулярного виразу '$1' недійсний.",
 );
