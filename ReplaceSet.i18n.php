@@ -23,9 +23,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'replaceset-desc' => '{{desc}}',
+	'replaceset-desc' => '{{desc|name=Replace Set|url=http://www.mediawiki.org/wiki/Extension:ReplaceSet}}',
 );
 
 /** Arabic (العربية)
