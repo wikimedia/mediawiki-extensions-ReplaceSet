@@ -173,7 +173,7 @@ $messages['he'] = array(
  */
 $messages['hsb'] = array(
 	'replaceset-desc' => 'Přidawa parserowu funkciju <nowiki>{{#replaceset}}</nowiki>, wužiwanu za narunanje tekstowych wotrězkow z formatowanymi datami',
-	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet je docpěty.', # Fuzzy
+	'replaceset-error-calllimit' => 'Limit zawołanjow za ReplaceSet ($1) je docpěty.',
 	'replaceset-error-regexnoend' => 'Mustrej regularnych wurazow "$1" kónčne dźělatko \'$2\' pobrachuje',
 	'replaceset-error-regexbadmodifier' => "Modifikator regularnych wurazow '$1' płaćiwy njeje.",
 );
