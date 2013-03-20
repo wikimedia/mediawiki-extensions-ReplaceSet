@@ -27,6 +27,21 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'replaceset-desc' => '{{desc|name=Replace Set|url=http://www.mediawiki.org/wiki/Extension:ReplaceSet}}',
+	'replaceset-error-calllimit' => 'Used as error message. Parameters:
+* $1 - max number of <code><nowiki>{{#replaceset:}}</nowiki></code> calls in a page (default: 25)',
+	'replaceset-error-regexnoend' => 'Used as error message.
+
+"regex" stands for "regular expression".
+
+Parameters:
+* $1 - the regular expression pattern
+* $2 - the ending delimiter',
+	'replaceset-error-regexbadmodifier' => 'Used as error message.
+
+"regex" stands for "regular expression".
+
+Parameters:
+* $1 - invalid regular expression modifier. Valid modifiers are i, m, s, x, A, D and U.',
 );
 
 /** Arabic (العربية)
