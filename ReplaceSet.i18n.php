@@ -391,10 +391,11 @@ $messages['sk'] = array(
 /** Swedish (svenska)
  * @author Boivie
  * @author Fluff
+ * @author WikiPhoenix
  */
 $messages['sv'] = array(
 	'replaceset-desc' => 'Lägger till parsefunktionen <nowiki>{{#replaceset}}</nowiki> som används för att ersätta sektioner av text med formaterad data',
-	'replaceset-error-calllimit' => 'Begränsningen i antal anrop till funktionen ReplaceSet har uppnåtts.', # Fuzzy
+	'replaceset-error-calllimit' => 'Begränsningen i antal anrop till funktionen ReplaceSet har uppnåtts ($1).',
 	'replaceset-error-regexnoend' => 'Det reguljära uttrycket "$1" saknar en avslutande avgränsare \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Regex-modifiern '$1' är inte giltig.",
 );
