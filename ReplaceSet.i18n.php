@@ -264,7 +264,7 @@ $messages['ko'] = array(
  */
 $messages['ksh'] = array(
 	'replaceset-desc' => 'Deiht de <code><nowiki>{{#replaceset}}</nowiki></code> Paaserfungkßuhn em Wiki dobei, öm Afschnedde fun Täx jääje fommatteete Daate enzetuusche.',
-	'replaceset-error-calllimit' => 'De Oproofjrenz för <i lang="en">ReplaceSet</i> es erreisch.', # Fuzzy
+	'replaceset-error-calllimit' => 'De Oproofjränz ($1) för <i lang="en">ReplaceSet</i> es ärreisch.',
 	'replaceset-error-regexnoend' => 'En däm rejolähre Ußdrok „$1“ fählt et Zeische för et Engk, wat eijentlesch e „$2“ sin mööt.',
 	'replaceset-error-regexbadmodifier' => 'En däm rejolähre Ußdrok es dat „$1“ e onjöltisch Zeijsche för en Veränderung udder en jenouere Beschtemmong.',
 );
