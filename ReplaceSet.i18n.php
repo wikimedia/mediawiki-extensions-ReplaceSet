@@ -423,10 +423,11 @@ $messages['tr'] = array(
 
 /** Ukrainian (українська)
  * @author Prima klasy4na
+ * @author Ата
  */
 $messages['uk'] = array(
 	'replaceset-desc' => 'Додає функцію парсеру <nowiki>{{#replaceset}}</nowiki>, яка використовується для заміни ділянок тексту з відформатованими даними',
-	'replaceset-error-calllimit' => 'Досягнуто межі викликів ReplaceSet.', # Fuzzy
+	'replaceset-error-calllimit' => 'Досягнуто межі викликів ReplaceSet ($1).',
 	'replaceset-error-regexnoend' => 'В шаблоні регулярного виразу "$1" відсутній кінцевий роздільник \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Модифікатор регулярного виразу '$1' недійсний.",
 );
