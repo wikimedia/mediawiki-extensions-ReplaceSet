@@ -55,6 +55,16 @@ $messages['ar'] = array(
 	'replaceset-error-regexbadmodifier' => "معدل الريجيكس '$1' غير صحيح.",
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'replaceset-desc' => "Amiesta una función d'analís <nowiki>{{#replaceset}}</nowiki> utilizada pa trocar fragmentos de testu por datos con formatu",
+	'replaceset-error-calllimit' => 'Llegóse a la llende de llamaes ($1) de ReplaceSet.',
+	'replaceset-error-regexnoend' => 'Falta\'l delimitador final \'$2\' nel patrón d\'espresiones regulares "$1"',
+	'replaceset-error-regexbadmodifier' => 'El cambiador d\'espresión regular "$1" nun ye válidu.',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
@@ -253,8 +263,8 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'replaceset-desc' => '형식된 데이터로 텍스트의 부분을 바꾸는 데 사용하는 <nowiki>{{#replaceset}}</nowiki> 파서 함수 추가',
-	'replaceset-error-calllimit' => '집합바꾸기 호출 횟수 제한에 도달했습니다.', # Fuzzy
+	'replaceset-desc' => '형식이 지정된 데이터로 된 텍스트의 부분을 찾아 바꾸는 데 사용하는 <nowiki>{{#replaceset}}</nowiki> 파서 함수를 추가합니다',
+	'replaceset-error-calllimit' => '집합바꾸기 호출 횟수 제한($1)에 도달했습니다.',
 	'replaceset-error-regexnoend' => '"$1" 정규식 패턴에 \'$2\' 끝 구분 기호가 없습니다.',
 	'replaceset-error-regexbadmodifier' => "'$1' 정규식 한정자가 올바르지 않습니다.",
 );
