@@ -351,9 +351,10 @@ $messages['pms'] = array(
 
 /** Portuguese (português)
  * @author Hamilton Abreu
+ * @author Luckas
  */
 $messages['pt'] = array(
-	'replaceset-desc' => "Adiciona ao analisador sintáctico ''(parser)'' a função <nowiki>{{#replaceset}}</nowiki> usada para substituir secções de texto por dados formatados",
+	'replaceset-desc' => "Adiciona ao analisador sintático ''(parser)'' a função <nowiki>{{#replaceset}}</nowiki> usada para substituir seções de texto por dados formatados",
 	'replaceset-error-calllimit' => 'Foi atingido o limite de chamadas ao ReplaceSet.', # Fuzzy
 	'replaceset-error-regexnoend' => "Falta o delimitador final '\$2' à expressão regular ''(regex)'' \"\$1\"",
 	'replaceset-error-regexbadmodifier' => "O modificador de expressões regulares ''(regex)'' '$1' não é válido",
