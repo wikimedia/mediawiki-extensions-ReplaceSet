@@ -4,9 +4,9 @@
  *
  * @file
  * @ingroup ReplaceSet
- * @author Daniel Friesen (https://www.mediawiki.org/wiki/User:Dantman) <mediawiki@danielfriesen.name>
+ * @author Daniel Friesen (http://danf.ca/mw/)
  * @copyright Copyright © 2009-2012 – Daniel Friesen
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
 $magicWords = array();

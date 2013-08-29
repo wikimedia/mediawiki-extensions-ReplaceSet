@@ -5,9 +5,9 @@
  * @file
  * @defgroup ReplaceSet
  * @package MediaWiki
- * @author Daniel Friesen (https://www.mediawiki.org/wiki/User:Dantman) <mediawiki@danielfriesen.name>
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @author Daniel Friesen (http://danf.ca/mw/)
  * @copyright Copyright © 2009-2012 – Daniel Friesen
+ * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  * @link https://www.mediawiki.org/wiki/Extension:ReplaceSet Documentation
  */
 
@@ -18,7 +18,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'name' => 'ReplaceSet',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:ReplaceSet',
 	'version' => '1.3',
-	'author' => "[https://www.mediawiki.org/wiki/User:Dantman Daniel Friesen]",
+	'author' => "[http://danf.ca/mw/ Daniel Friesen]",
 	'descriptionmsg' => 'replaceset-desc',
 );
 
