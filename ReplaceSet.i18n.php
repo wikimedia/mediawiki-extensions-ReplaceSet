@@ -361,11 +361,12 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'replaceset-desc' => 'Adiciona a função de análise <nowiki>{{#replaceset}}</nowiki> utilizada para substituir seções de texto com dados formatados',
-	'replaceset-error-calllimit' => 'O limite de chamadas de ReplaceSet foi alcançado.', # Fuzzy
+	'replaceset-error-calllimit' => 'O limite de chamadas da ReplaceSet ($1) foi atingido.',
 	'replaceset-error-regexnoend' => 'A expressão regular "$1" está sem um delimitador final \'$2\'',
 	'replaceset-error-regexbadmodifier' => "O modificador de expressão regular '$1' não é válido",
 );
