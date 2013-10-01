@@ -281,9 +281,10 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
-	'replaceset-desc' => "Setzt eng <nowiki>{{#replaceset}}</nowiki> Parser-Fonctioun derbäi déi benotzt gëtt fir Text-Abschnitter duerch formatéiert Daten z'ersetzen",
+	'replaceset-desc' => "Setzt eng <nowiki>{{#replaceset}}</nowiki> Parser-Funktioun derbäi déi benotzt gëtt fir Text-Abschnitter duerch formatéiert Daten z'ersetzen",
 	'replaceset-error-calllimit' => "D'Limit ($1) fir d'Opruffe vu ''ReplaceSet'' gouf erreecht.",
 );
 
