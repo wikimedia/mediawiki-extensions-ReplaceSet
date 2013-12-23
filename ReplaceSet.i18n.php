@@ -113,7 +113,7 @@ $messages['de'] = array(
  */
 $messages['dsb'] = array(
 	'replaceset-desc' => 'Pśidawa parserowu funkciju <nowiki>{{#replaceset}}</nowiki>, wužywanu za wuměnjenje tekstowych wótrězkow z formatěrowanymi datami',
-	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet jo dojśpjony.', # Fuzzy
+	'replaceset-error-calllimit' => 'Limit zawołanjow ReplaceSet ($1) jo dojśpjony.',
 	'replaceset-error-regexnoend' => 'Mustroju regularnych wurazow "$1" falujo kóńcne źělatko \'$2\'',
 	'replaceset-error-regexbadmodifier' => "Modifikator regularnych wurazow '$1' njejo płaśiwy.",
 );
