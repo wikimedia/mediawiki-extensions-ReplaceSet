@@ -292,7 +292,7 @@ $messages['lb'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'replaceset-desc' => 'Додава <nowiki>{{#replaceset}}</nowiki> парсерска функција која се користи за заменување на делови од текстот со форматирани податоци',
+	'replaceset-desc' => 'Додава расчленувачка  функција <nowiki>{{#replaceset}}</nowiki> која се користи за заменување на делови од текстот со форматирани податоци',
 	'replaceset-error-calllimit' => 'Достигната е границата ($1) на повикувања на ReplaceSet.',
 	'replaceset-error-regexnoend' => 'Во шемата „$1“ на регуларниот израз недостасува крајниот граничник „$2“',
 	'replaceset-error-regexbadmodifier' => 'Модификаторот „$1“ на регуларниот израз е неважечки.',
