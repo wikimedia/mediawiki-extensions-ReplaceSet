@@ -137,6 +137,16 @@ $messages['es'] = array(
 	'replaceset-error-regexbadmodifier' => "El modificador de expresión regular '$1' es inválido.",
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'replaceset-desc' => 'افزودن یک <nowiki>{{#replaceset}}</nowiki> عملیات تجزیه‌کننده برای جایگزینی بخش‌های متن با اطلاعات فرمت شده، مورد استفاده قرار می‌گیرد',
+	'replaceset-error-calllimit' => 'تنظیم جایگزین محدود تماس ($1) به دست آمده‌است.',
+	'replaceset-error-regexnoend' => 'الگوی رجکس "$1" محدودکنندهٔ پایان \'$2\' را از دست می‌دهد',
+	'replaceset-error-regexbadmodifier' => "تعریف کنندهٔ رجکس '$1' معتبر نیست.",
+);
+
 /** Finnish (suomi)
  * @author Centerlink
  * @author Crt
