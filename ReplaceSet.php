@@ -17,7 +17,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'path' => __FILE__,
 	'name' => 'ReplaceSet',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:ReplaceSet',
-	'version' => '1.3',
+	'version' => '1.4.0',
 	'author' => "[http://danf.ca/mw/ Daniel Friesen]",
 	'descriptionmsg' => 'replaceset-desc',
 );
@@ -25,6 +25,7 @@ $wgExtensionCredits['parserhook'][] = array(
 $wgHooks['ParserFirstCallInit'][] = 'efReplaceSetRegisterParser';
 
 $wgAutoloadClasses['ReplaceSet'] = __DIR__ . '/ReplaceSet.class.php';
+$wgMessagesDirs['ReplaceSet'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['ReplaceSet'] = __DIR__ . '/ReplaceSet.i18n.php';
 $wgExtensionMessagesFiles['ReplaceSetMagic'] = __DIR__ . '/ReplaceSet.i18n.magic.php';
 
