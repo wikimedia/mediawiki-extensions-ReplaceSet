@@ -55,3 +55,8 @@ $magicWords['nl'] = array(
 $magicWords['sr-el'] = array(
 	'replaceset' => array( 0, 'zameni_skup' ),
 );
+
+/** Traditional Chinese (中文（繁體）‎) */
+$magicWords['zh-hant'] = array(
+	'replaceset' => array( 0, '替代設定' ),
+);
