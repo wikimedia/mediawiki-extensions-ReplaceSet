@@ -56,6 +56,11 @@ $magicWords['sr-el'] = array(
 	'replaceset' => array( 0, 'zameni_skup' ),
 );
 
+/** Simplified Chinese (中文（简体）‎) */
+$magicWords['zh-hans'] = array(
+	'replaceset' => array( 0, '取代设置' ),
+);
+
 /** Traditional Chinese (中文（繁體）‎) */
 $magicWords['zh-hant'] = array(
 	'replaceset' => array( 0, '替代設定' ),
