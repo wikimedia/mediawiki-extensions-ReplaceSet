@@ -23,7 +23,7 @@ $magicWords['ar'] = array(
 
 /** Egyptian Spoken Arabic (مصرى) */
 $magicWords['arz'] = array(
-	'replaceset' => array( 0, 'استبدال_المجموعة' ),
+	'replaceset' => array( 0, 'استبدال_المجموعه' ),
 );
 
 /** German (Deutsch) */
