@@ -63,5 +63,5 @@ $magicWords['zh-hans'] = array(
 
 /** Traditional Chinese (中文（繁體）‎) */
 $magicWords['zh-hant'] = array(
-	'replaceset' => array( 0, '替代設定' ),
+	'replaceset' => array( 0, '取代設定' ),
 );
