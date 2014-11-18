@@ -32,7 +32,7 @@ $wgExtensionMessagesFiles['ReplaceSetMagic'] = __DIR__ . '/ReplaceSet.i18n.magic
 $wgParserTestFiles[] = __DIR__ . '/parserTests.txt';
 
 function efReplaceSetRegisterParser( &$parser ) {
-	$parser->setFunctionHook( 'replaceset', array( 'ReplaceSet', 'parserFunctionObj' ), SFH_OBJECT_ARGS );
+	$parser->setFunctionHook( 'replaceset', array( 'ReplaceSet', 'parserFunctionObj' ), Parser::SFH_OBJECT_ARGS );
 	return true;
 }
 
