@@ -26,6 +26,11 @@ $magicWords['arz'] = array(
 	'replaceset' => array( 0, 'استبدال_المجموعه' ),
 );
 
+/** Chuvash (Чӑвашла) */
+$magicWords['cv'] = array(
+	'replaceset' => array( 0, 'replaceset' ),
+);
+
 /** German (Deutsch) */
 $magicWords['de'] = array(
 	'replaceset' => array( 0, 'ersetzeset', 'ersetze_set' ),
