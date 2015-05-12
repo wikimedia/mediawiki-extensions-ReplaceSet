@@ -21,7 +21,7 @@ $magicWords['ar'] = array(
 	'replaceset' => array( 0, 'استبدال_المجموعة' ),
 );
 
-/** Egyptian Spoken Arabic (مصرى) */
+/** Egyptian Arabic (مصرى) */
 $magicWords['arz'] = array(
 	'replaceset' => array( 0, 'استبدال_المجموعه' ),
 );
