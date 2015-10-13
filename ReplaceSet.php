@@ -20,6 +20,7 @@ $wgExtensionCredits['parserhook'][] = array(
 	'version' => '1.4.0',
 	'author' => "[http://danf.ca/mw/ Daniel Friesen]",
 	'descriptionmsg' => 'replaceset-desc',
+	'license-name' => 'GPL-2.0+'
 );
 
 $wgHooks['ParserFirstCallInit'][] = 'efReplaceSetRegisterParser';
