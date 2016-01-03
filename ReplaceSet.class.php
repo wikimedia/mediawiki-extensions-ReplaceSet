@@ -79,6 +79,6 @@ class ReplaceSet {
 
 	static function error( $msg /*, ... */ ) {
 		$args = func_get_args();
-		return '<strong class="error">' . call_user_func_array( 'wfMsgForContent', $args ) . '</strong>';
+		return '<strong class="error">' . wfMessage( $args )->inContentLanguage()->escaped() . '</strong>';
 	}
 }
