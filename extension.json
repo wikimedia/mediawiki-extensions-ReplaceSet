@@ -24,9 +24,6 @@
 	"Hooks": {
 		"ParserFirstCallInit": "ReplaceSetHooks::efReplaceSetRegisterParser"
 	},
-	"ParserTestFiles": [
-		"parserTests.txt"
-	],
 	"config": {
 		"_prefix": "eg",
 		"ReplaceSetCallLimit": 25,
