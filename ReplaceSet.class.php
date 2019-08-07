@@ -9,10 +9,6 @@
  * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) {
-	die( "This is an extension to the MediaWiki package and cannot be run standalone." );
-}
-
 class ReplaceSet {
 	public static function parserFunctionObj(  $parser, $frame, $args ) {
 		global $egReplaceSetCallLimit, $egReplaceSetPregLimit;
