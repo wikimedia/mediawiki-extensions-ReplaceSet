@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Armando-Martin",
-			"Translationista",
 			"Fitoschido",
-			"Indiralena"
+			"Indiralena",
+			"Translationista"
 		]
 	},
 	"replaceset-desc": "Añade una función parser <nowiki>{{#replaceset}}</nowiki> utilizada para reemplazar secciones de texto con información formateada",
