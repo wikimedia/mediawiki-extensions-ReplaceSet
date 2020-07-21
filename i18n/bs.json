@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"CERminator",
-			"Srdjan m"
+			"Srdjan m",
+			"Srđan"
 		]
 	},
 	"replaceset-desc": "Dodaje parsersku funkciju nowiki>{{#replaceset}}</nowiki> korištenu za zamjenu sekcija teksta sa formatiranim podacima",
