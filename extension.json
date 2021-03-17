@@ -9,6 +9,9 @@
 	"descriptionmsg": "replaceset-desc",
 	"license-name": "GPL-2.0-or-later",
 	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.34.0"
+	},
 	"MessagesDirs": {
 		"ReplaceSet": [
 			"i18n"

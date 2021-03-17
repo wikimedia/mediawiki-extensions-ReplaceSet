@@ -33,7 +33,7 @@ class ReplaceSet {
 			if ( $argArr['index'] ) {
 				continue;
 			}
-			$replace = $parser->mStripState->unstripNoWiki( trim( $frame->expand( $argArr['name'] ) ) );
+			$replace = $parser->getStripState()->unstripNoWiki( trim( $frame->expand( $argArr['name'] ) ) );
 			$with = trim( $frame->expand( $argArr['value'] ) );
 			if ( false !== $delimPos = strpos( $regexStarts, $replace[0] ) ) {
 				// Is Regex Replace
