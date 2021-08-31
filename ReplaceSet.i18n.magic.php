@@ -56,6 +56,11 @@ $magicWords['nl'] = [
 	'replaceset' => [ 0, 'setvervangen' ],
 ];
 
+/** Serbian (Cyrillic script) (српски (ћирилица)‎) */
+$magicWords['sr-ec'] = [
+	'replaceset' => [ 0, 'замени_скуп' ],
+];
+
 /** Serbian (Latin script) (srpski (latinica)‎) */
 $magicWords['sr-el'] = [
 	'replaceset' => [ 0, 'zameni_skup' ],
