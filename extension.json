@@ -21,8 +21,8 @@
 		"ReplaceSetMagic": "ReplaceSet.i18n.magic.php"
 	},
 	"AutoloadClasses": {
-		"ReplaceSet": "ReplaceSet.class.php",
-		"ReplaceSetHooks": "ReplaceSet.hooks.php"
+		"ReplaceSet": "src/ReplaceSet.php",
+		"ReplaceSetHooks": "src/ReplaceSetHooks.php"
 	},
 	"Hooks": {
 		"ParserFirstCallInit": "ReplaceSetHooks::efReplaceSetRegisterParser"

@@ -16,7 +16,7 @@
  *
  * @author Daniel Friesen (Dantman)
  * @copyright Copyright © 2009-2012 – Daniel Friesen
- * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @license GPL-2.0-or-later
  */
 
 // Ensure that the script cannot be executed outside of MediaWiki.
@@ -31,5 +31,5 @@ if ( function_exists( 'wfLoadExtension' ) ) {
 	);
 	return;
 } else {
-	die( 'This version of the ReplaceSet extension requires MediaWiki 1.29+' );
+	die( 'This version of the ReplaceSet extension requires MediaWiki 1.34+' );
 }
