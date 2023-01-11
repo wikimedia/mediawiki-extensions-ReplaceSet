@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"replaceset-desc": "Doda funkcijo razčlenjevalnika <nowiki>{{#replaceset}}</nowiki>, ki se uporablja za zamenjavo delov besedila z oblikovanimi podatki",
+	"replaceset-error-calllimit": "Dosežena je omejitev klicev ReplaceSet ($1).",
+	"replaceset-error-regexnoend": "V vzorcu regularnega izraza »$1« manjka končno ločilo »$2«",
+	"replaceset-error-regexbadmodifier": "Modifikator regularnega izraza »$1« ni veljaven."
+}
