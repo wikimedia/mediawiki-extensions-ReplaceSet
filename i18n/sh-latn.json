@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250"
+			"Winston Sung"
 		]
 	},
 	"replaceset-desc": "Dodaje parsersku  funkciju nowiki>{{#replaceset}}</nowiki> koja koristi se za zamjenu odeljaka teksta sa formatiranim podacima",
