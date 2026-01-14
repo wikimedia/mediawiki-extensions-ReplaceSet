@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Volvox"
 		]
 	},
-	"replaceset-desc": "Setzt eng <nowiki>{{#replaceset}}</nowiki> Parser-Funktioun dobäi déi benotzt gëtt fir Text-Abschnitter duerch formatéiert Daten z'ersetzen",
+	"replaceset-desc": "Setzt eng <nowiki>{{#replaceset}}</nowiki> Parserfunktioun dobäi, déi benotzt gëtt fir Text-Abschnitter duerch formatéiert Daten z'ersetzen",
 	"replaceset-error-calllimit": "D'Limit ($1) fir d'Opruffe vu ''ReplaceSet'' gouf erreecht."
 }
