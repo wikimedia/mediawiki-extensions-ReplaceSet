@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"replaceset-desc": "د <nowiki>{{#replaceset}}</nowiki> تجزيه‌کوونکې کړنچارې ورگډولو سره د ليک برخو پرځای د بڼل شوو اومتوکو ځايناستولو لپاره کارېږي.",
+	"replaceset-error-calllimit": "د ReplaceSet وروستي بريد ($1) ته رسېدلی دی."
+}
