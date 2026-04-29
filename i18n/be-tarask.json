@@ -3,11 +3,12 @@
 		"authors": [
 			"EugeneZelenko",
 			"Jim-by",
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Ucukor"
 		]
 	},
 	"replaceset-desc": "Дадае функцыю парсэра <nowiki>{{#replaceset}}</nowiki> для замены частак тэксту з фарматаванымі зьвесткамі",
 	"replaceset-error-calllimit": "Была дасягнутая мяжа выклікаў ($1) ReplaceSet.",
-	"replaceset-error-regexnoend": "Ва ўзоры рэгулярнага выразу «$1» адсутнічае канчатковы падзяляльнік «$2»",
+	"replaceset-error-regexnoend": "Ва ўзоры рэґулярнага выразу «$1» бракуе канчатковага падзяляльніку «$2»",
 	"replaceset-error-regexbadmodifier": "Няслушны мадыфікатар рэгулярнага выразу «$1»."
 }
